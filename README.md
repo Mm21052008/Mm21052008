@@ -1,5 +1,7 @@
 Meu nome é Matheus Silvino Sabiá
 
+![](https://media.tenor.com/bfAPV6kZXu8AAAAi/isaac-dance.gif)
+
 📖Estou estudando no alura
 
 📝Estou me desenvolvendo no Javascript
@@ -8,4 +10,5 @@ Meu nome é Matheus Silvino Sabiá
 
 📨Pode entrar em contato comigo por
 00001112756498sp@al.educacao.sp.gov.br
-![](https://tenor.com/pt-BR/view/jotaro-jojo-jojo-bizarre-adventure-bike-jojo-bike-gif-4228712888990777929)
+
+![](https://media1.tenor.com/m/Oq9n98VpQkkAAAAC/jotaro-jojo.gif)
